@@ -4,4 +4,4 @@
 1. [xresources](https://st.suckless.org/patches/xresources)
 2. [scrollback-reflow-standalone](https://st.suckless.org/patches/scrollback-reflow-standalone)
 3. [copyurl](https://st.suckless.org/patches/copyurl)
-
+4. [anysize](https://st.suckless.org/patches/anysize)
