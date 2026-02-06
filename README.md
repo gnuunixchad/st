@@ -1,4 +1,5 @@
 # My build of [st](https://st.suckless.org) - Simple Terminal
+![screenshot](./misc/st.png)
 
 ### Patches applied
 1. [scrollback-reflow-standalone](https://st.suckless.org/patches/scrollback-reflow-standalone)
