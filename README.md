@@ -1,4 +1,4 @@
-# My build of [st](https://st.suckless.org) - Simple Terminal
+# <img src="./misc/st-repo.png" width="24"/> My build of [st](https://st.suckless.org) - Simple Terminal
 ![screenshot](./misc/st.png)  
 st 0.9.3
 
