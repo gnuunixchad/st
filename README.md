@@ -8,3 +8,6 @@ st 0.9.3
 3. [anysize](https://st.suckless.org/patches/anysize)
 4. [bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright)
 5. [newterm](https://st.suckless.org/patches/newterm)
+6. [undercurl](https://st.suckless.org/patches/undercurl)
+7. [glyph-wide-support](https://st.suckless.org/patches/glyph_wide_support)
+8. [dynamic-cursor-color](https://st.suckless.org/patches/dynamic-cursor-color)
