@@ -11,3 +11,5 @@ st 0.9.3
 6. [undercurl](https://st.suckless.org/patches/undercurl)
 7. [glyph-wide-support](https://st.suckless.org/patches/glyph_wide_support)
 8. [dynamic-cursor-color](https://st.suckless.org/patches/dynamic-cursor-color)
+9. [keyboard_select](https://st.suckless.org/patches/keyboard_select)
+10. [keyboard_select-vi](./patches/st-keyboard_select-vi-0.9.3.diff)
