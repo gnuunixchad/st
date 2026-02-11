@@ -209,6 +209,7 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
 	{ ControlMask|ShiftMask,XK_L,           copyurl,        {.i =  1} },
 	{ ControlMask|ShiftMask,XK_M,           newterm,        {.i =  0} },
+	{ ControlMask,          XK_slash,       keyboard_select,{.i =  0} },
 };
 
 /*
